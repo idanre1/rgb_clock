@@ -1,5 +1,6 @@
 # Ignore avrDude bin files
 /build-nano328
+/build-uno
 
 # Object files
 *.o
